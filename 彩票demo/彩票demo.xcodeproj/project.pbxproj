@@ -25,6 +25,15 @@
 		1056C0BB27442F4800BFAEF2 /* CYGroupUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1056C0BA27442F4800BFAEF2 /* CYGroupUIButton.m */; };
 		1056C0BF2744308400BFAEF2 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 1056C0BE2744308400BFAEF2 /* UIView+Frame.m */; };
 		1056C0C32744327700BFAEF2 /* CYGroupBuyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1056C0C22744327700BFAEF2 /* CYGroupBuyViewController.m */; };
+		E7707D9D2744B57000F2FFE7 /* CYMyLotteryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707D9C2744B57000F2FFE7 /* CYMyLotteryViewController.m */; };
+		E7707DA42744BF2F00F2FFE7 /* Setting.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7707DA32744BF2F00F2FFE7 /* Setting.plist */; };
+		E7707E132745035B00F2FFE7 /* CYRecordController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707E122745035B00F2FFE7 /* CYRecordController.m */; };
+		E7707E15274507FD00F2FFE7 /* SettingPush.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7707E14274507FD00F2FFE7 /* SettingPush.plist */; };
+		E7707E17274513D100F2FFE7 /* SettingPush01.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7707E16274513D100F2FFE7 /* SettingPush01.plist */; };
+		E7707E1A2745161100F2FFE7 /* CYSettingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707E192745161100F2FFE7 /* CYSettingTableViewCell.m */; };
+		E7707E1E27451A0500F2FFE7 /* CYSettingController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707E1D27451A0500F2FFE7 /* CYSettingController.m */; };
+		E7707E2127451A3400F2FFE7 /* CYLiveTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707E2027451A3400F2FFE7 /* CYLiveTableViewController.m */; };
+		E7707E2327451A9100F2FFE7 /* SettingPush02.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7707E2227451A9100F2FFE7 /* SettingPush02.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +67,20 @@
 		1056C0BE2744308400BFAEF2 /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
 		1056C0C12744327700BFAEF2 /* CYGroupBuyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYGroupBuyViewController.h; sourceTree = "<group>"; };
 		1056C0C22744327700BFAEF2 /* CYGroupBuyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYGroupBuyViewController.m; sourceTree = "<group>"; };
+		E7707D9B2744B57000F2FFE7 /* CYMyLotteryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYMyLotteryViewController.h; sourceTree = "<group>"; };
+		E7707D9C2744B57000F2FFE7 /* CYMyLotteryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYMyLotteryViewController.m; sourceTree = "<group>"; };
+		E7707DA32744BF2F00F2FFE7 /* Setting.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Setting.plist; sourceTree = "<group>"; };
+		E7707E112745035B00F2FFE7 /* CYRecordController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYRecordController.h; sourceTree = "<group>"; };
+		E7707E122745035B00F2FFE7 /* CYRecordController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYRecordController.m; sourceTree = "<group>"; };
+		E7707E14274507FD00F2FFE7 /* SettingPush.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SettingPush.plist; sourceTree = "<group>"; };
+		E7707E16274513D100F2FFE7 /* SettingPush01.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SettingPush01.plist; sourceTree = "<group>"; };
+		E7707E182745161100F2FFE7 /* CYSettingTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYSettingTableViewCell.h; sourceTree = "<group>"; };
+		E7707E192745161100F2FFE7 /* CYSettingTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYSettingTableViewCell.m; sourceTree = "<group>"; };
+		E7707E1C27451A0500F2FFE7 /* CYSettingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYSettingController.h; sourceTree = "<group>"; };
+		E7707E1D27451A0500F2FFE7 /* CYSettingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYSettingController.m; sourceTree = "<group>"; };
+		E7707E1F27451A3400F2FFE7 /* CYLiveTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYLiveTableViewController.h; sourceTree = "<group>"; };
+		E7707E2027451A3400F2FFE7 /* CYLiveTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYLiveTableViewController.m; sourceTree = "<group>"; };
+		E7707E2227451A9100F2FFE7 /* SettingPush02.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SettingPush02.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +197,10 @@
 		1056C00B2743FDDD00BFAEF2 /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				E7707DA32744BF2F00F2FFE7 /* Setting.plist */,
+				E7707E14274507FD00F2FFE7 /* SettingPush.plist */,
+				E7707E16274513D100F2FFE7 /* SettingPush01.plist */,
+				E7707E2227451A9100F2FFE7 /* SettingPush02.plist */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -181,6 +208,11 @@
 		1056C00C2743FDDD00BFAEF2 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				E7707E1B27451A0500F2FFE7 /* Setting */,
+				E7707D9B2744B57000F2FFE7 /* CYMyLotteryViewController.h */,
+				E7707D9C2744B57000F2FFE7 /* CYMyLotteryViewController.m */,
+				E7707E112745035B00F2FFE7 /* CYRecordController.h */,
+				E7707E122745035B00F2FFE7 /* CYRecordController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -196,6 +228,8 @@
 			isa = PBXGroup;
 			children = (
 				1056C03D2744019F00BFAEF2 /* MyLottery.storyboard */,
+				E7707E182745161100F2FFE7 /* CYSettingTableViewCell.h */,
+				E7707E192745161100F2FFE7 /* CYSettingTableViewCell.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -395,6 +429,17 @@
 			path = Common;
 			sourceTree = "<group>";
 		};
+		E7707E1B27451A0500F2FFE7 /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				E7707E1C27451A0500F2FFE7 /* CYSettingController.h */,
+				E7707E1D27451A0500F2FFE7 /* CYSettingController.m */,
+				E7707E1F27451A3400F2FFE7 /* CYLiveTableViewController.h */,
+				E7707E2027451A3400F2FFE7 /* CYLiveTableViewController.m */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -454,9 +499,13 @@
 			files = (
 				1056C041274401A900BFAEF2 /* Arena.storyboard in Resources */,
 				1056C03E2744019F00BFAEF2 /* MyLottery.storyboard in Resources */,
+				E7707E15274507FD00F2FFE7 /* SettingPush.plist in Resources */,
 				1056C044274401B700BFAEF2 /* History.storyboard in Resources */,
 				1056BFF72743E6EC00BFAEF2 /* LaunchScreen.storyboard in Resources */,
 				1056BFF42743E6EC00BFAEF2 /* Assets.xcassets in Resources */,
+				E7707E2327451A9100F2FFE7 /* SettingPush02.plist in Resources */,
+				E7707E17274513D100F2FFE7 /* SettingPush01.plist in Resources */,
+				E7707DA42744BF2F00F2FFE7 /* Setting.plist in Resources */,
 				1056C0382744005500BFAEF2 /* Hall.storyboard in Resources */,
 				1056C03B2744013A00BFAEF2 /* Discovery.storyboard in Resources */,
 			);
@@ -475,11 +524,16 @@
 				1056BFFA2743E6EC00BFAEF2 /* main.m in Sources */,
 				1056BFF22743E6EA00BFAEF2 /* __demo.xcdatamodeld in Sources */,
 				1056C0B7274427D200BFAEF2 /* CYArenaViewController.m in Sources */,
+				E7707D9D2744B57000F2FFE7 /* CYMyLotteryViewController.m in Sources */,
 				1056C0482744031B00BFAEF2 /* CYTabBarViewController.m in Sources */,
+				E7707E132745035B00F2FFE7 /* CYRecordController.m in Sources */,
+				E7707E2127451A3400F2FFE7 /* CYLiveTableViewController.m in Sources */,
 				1056C0C32744327700BFAEF2 /* CYGroupBuyViewController.m in Sources */,
 				1056C0292743FDDD00BFAEF2 /* AppDelegate.m in Sources */,
+				E7707E1A2745161100F2FFE7 /* CYSettingTableViewCell.m in Sources */,
 				1056C0BF2744308400BFAEF2 /* UIView+Frame.m in Sources */,
 				1056C0AF27441FEF00BFAEF2 /* CYNavigationController.m in Sources */,
+				E7707E1E27451A0500F2FFE7 /* CYSettingController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -548,7 +602,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -601,7 +655,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
